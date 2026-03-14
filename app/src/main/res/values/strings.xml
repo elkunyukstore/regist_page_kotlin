@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Register Page</string>
+    <string name="title_register">Daftar Akun Baru</string>
+    <string name="label_instruction">Silakan isi formulir di bawah ini untuk mendaftar.</string>
+    <string name="hint_full_name">Nama Lengkap</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Nomor Telepon</string>
+    <string name="btn_register">Daftar</string>
 </resources>
